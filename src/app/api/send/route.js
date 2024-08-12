@@ -1,7 +1,7 @@
-import { NextResponse } from "next/server";
-import { Resend } from "resend";
+import { NextResponse } from 'next/server';
+import { Resend } from 'resend';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+const resend = new Resend('https://api.emailjs.com/api/v1.0/email/send');
 const fromEmail = process.env.FROM_EMAIL;
 
 export async function POST(req, res) {
