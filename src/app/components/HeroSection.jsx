@@ -15,13 +15,13 @@ const HeroSection = () => {
           transition={{ duration: 0.5 }}
           className="col-span-8 place-self-center text-center sm:text-left justify-self-start"
         >
-          <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold">
+          <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-1xl lg:leading-normal font-extrabold">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
               Welcome to ITElevate{" "}
             </span>
             <br></br>
           </h1>
-          <h3 className="text-white mb-4 text-3xl sm:text-4xl lg:text-6xl lg:leading-normal font-extrabold">
+          <h3 className="text-white mb-4 text-3xl sm:text-4xl lg:text-1xl lg:leading-normal font-extrabold">
             <TypeAnimation
               sequence={[
                 // "Elevating Digital Experiences",
@@ -40,7 +40,7 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h3>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
+          <p className="text-white text-base sm:text-lg mb-6 lg:text-xl">
             At Elevate, we specialize in crafting intuitive and engaging user
             interfaces (UI) and exceptional user experiences (UX) for both
             mobile and web platforms. Our mission is to transform your digital
@@ -52,7 +52,7 @@ const HeroSection = () => {
               href="/#contact"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
-              Hire Me
+              Hire Us
             </Link>
             {/* <Link
               href="/"

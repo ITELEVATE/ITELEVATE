@@ -90,7 +90,7 @@ const ProjectsSection = () => {
             Mobile UI/UX Design
           </span>
         </h2>
-        <p class="text-lg mb-6">
+        <p class="text-white text-lg mb-6">
           In today’s mobile-first world, the importance of a well-designed
           mobile application cannot be overstated. We focus on creating visually
           appealing and user-friendly interfaces that make navigating your app
@@ -98,7 +98,7 @@ const ProjectsSection = () => {
           our design process ensures your app is both functional and delightful
           to use.
         </p>
-        <ul class="list-disc pl-5 mb-8">
+        <ul class="text-white list-disc pl-5 mb-8">
           <li class="mb-2">Custom Mobile UI Design</li>
           <li class="mb-2">Interactive Prototypes</li>
           <li class="mb-2">User Journey Mapping</li>
@@ -108,18 +108,18 @@ const ProjectsSection = () => {
       </section>
 
       <section>
-        <h2 class="text-3xl font-semibold text-white-600 mb-6">
+        <h2 class="text-white text-3xl font-semibold text-white-600 mb-6">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
             Web UI/UX Design
           </span>
         </h2>
-        <p class="text-lg mb-6">
+        <p class="text-white text-lg mb-6">
           Your website is often the first interaction users have with your
           brand. We make sure it’s a memorable one. By combining aesthetics with
           usability, we design websites that not only look great but also
           provide an intuitive and enjoyable experience for every visitor.
         </p>
-        <ul class="list-disc pl-5 mb-8">
+        <ul class="text-white list-disc pl-5 mb-8">
           <li class="mb-2">Responsive Web Design</li>
           <li class="mb-2">User Research & Personas</li>
           <li class="mb-2">Wireframing & Prototyping</li>
@@ -134,7 +134,7 @@ const ProjectsSection = () => {
             Why Choose Elevate?
           </span>
         </h2>
-        <ul class="list-disc pl-5 mb-8">
+        <ul class="text-white list-disc pl-5 mb-8">
           <li class="mb-2">User-Centric Approach</li>
           <li class="mb-2">Innovative Design Solutions</li>
           <li class="mb-2">Collaborative Process</li>
@@ -149,7 +149,7 @@ const ProjectsSection = () => {
             Our Process
           </span>
         </h2>
-        <ol class="list-decimal pl-5 mb-8">
+        <ol class="text-white list-decimal pl-5 mb-8">
           <li class="mb-2">Discovery & Research</li>
           <li class="mb-2">Strategy & Planning</li>
           <li class="mb-2">Design & Prototype</li>
