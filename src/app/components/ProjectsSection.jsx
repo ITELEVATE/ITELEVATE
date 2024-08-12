@@ -85,12 +85,12 @@ const ProjectsSection = () => {
         Our Services
       </h2>
       <section>
-        <h2 class="text-3xl font-semibold text-white-600 mb-6">
+        <h2 className="text-3xl font-semibold text-white-600 mb-6">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
             Mobile UI/UX Design
           </span>
         </h2>
-        <p class="text-white text-lg mb-6">
+        <p className="text-white text-lg mb-6">
           In today’s mobile-first world, the importance of a well-designed
           mobile application cannot be overstated. We focus on creating visually
           appealing and user-friendly interfaces that make navigating your app

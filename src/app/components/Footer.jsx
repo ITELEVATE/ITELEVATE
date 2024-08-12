@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container p-12 flex justify-between">
         <span>
           <Image
-            src="/images/logo_own.png"
+            src="https://i.ibb.co/SBNGStb/logo-own.png"
             alt="logo"
             width={100}
             height={50}
